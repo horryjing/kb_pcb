@@ -64,7 +64,7 @@
 		)
 		(symbol "Trackball_1_1"
 			(pin output line
-				(at -8.89 5.08 180)
+				(at -11.43 5.08 0)
 				(length 2.54)
 				(name "FRONT"
 					(effects
@@ -82,7 +82,7 @@
 				)
 			)
 			(pin output line
-				(at -8.89 2.54 180)
+				(at -11.43 2.54 0)
 				(length 2.54)
 				(name "BACK"
 					(effects
@@ -100,7 +100,7 @@
 				)
 			)
 			(pin output line
-				(at -8.89 0 180)
+				(at -11.43 0 0)
 				(length 2.54)
 				(name "LEFT"
 					(effects
@@ -118,7 +118,7 @@
 				)
 			)
 			(pin output line
-				(at -8.89 -2.54 180)
+				(at -11.43 -2.54 0)
 				(length 2.54)
 				(name "BACK"
 					(effects
@@ -136,7 +136,7 @@
 				)
 			)
 			(pin output line
-				(at -8.89 -5.08 180)
+				(at -11.43 -5.08 0)
 				(length 2.54)
 				(name "SW1"
 					(effects
@@ -154,7 +154,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 7.62 90)
+				(at 0 10.16 270)
 				(length 2.54)
 				(name "VCC"
 					(effects
@@ -172,7 +172,7 @@
 				)
 			)
 			(pin power_in line
-				(at 0 -7.62 270)
+				(at 0 -10.16 90)
 				(length 2.54)
 				(name "GND"
 					(effects
@@ -190,7 +190,7 @@
 				)
 			)
 			(pin input line
-				(at 8.89 5.08 0)
+				(at 11.43 5.08 180)
 				(length 2.54)
 				(name "RED"
 					(effects
@@ -208,7 +208,7 @@
 				)
 			)
 			(pin output line
-				(at 8.89 2.54 0)
+				(at 11.43 2.54 180)
 				(length 2.54)
 				(name "GREEN"
 					(effects
@@ -226,7 +226,7 @@
 				)
 			)
 			(pin output line
-				(at 8.89 -2.54 0)
+				(at 11.43 -2.54 180)
 				(length 2.54)
 				(name "BLUE"
 					(effects
@@ -244,7 +244,7 @@
 				)
 			)
 			(pin output line
-				(at 8.89 -5.08 0)
+				(at 11.43 -5.08 180)
 				(length 2.54)
 				(name "WHITE"
 					(effects

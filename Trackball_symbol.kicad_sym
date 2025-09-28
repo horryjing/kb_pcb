@@ -66,14 +66,14 @@
 			(pin output line
 				(at -11.43 5.08 0)
 				(length 2.54)
-				(name "FRONT"
+				(name "SW1"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "5"
+				(number "9"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -91,7 +91,7 @@
 						)
 					)
 				)
-				(number "6"
+				(number "8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -127,7 +127,7 @@
 						)
 					)
 				)
-				(number "8"
+				(number "6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -138,14 +138,14 @@
 			(pin output line
 				(at -11.43 -5.08 0)
 				(length 2.54)
-				(name "SW1"
+				(name "FRONT"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "9"
+				(number "5"
 					(effects
 						(font
 							(size 1.27 1.27)
