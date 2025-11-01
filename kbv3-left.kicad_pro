@@ -476,7 +476,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "kbv3.kicad_pro",
+    "filename": "kbv3-left.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -512,7 +512,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "gerber-left",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
